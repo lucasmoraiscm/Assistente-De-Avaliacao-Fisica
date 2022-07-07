@@ -1,8 +1,8 @@
 ## Physical Assessment Assistant (_Assistente de Avaliação Física_)
 
-- This is a program designed to assist healthcare professionals in the process of physical assessment of a patient  
-_(Este é um programa desenvolvido para auxiliar os profissionais de saúde no processo de avaliação física de um paciente)_
-- This program can calculate Body Mass Index (BMI), Waist-to-Hip Ratio (WHR) and Body Adiposity Index (BAI) from data entered  
-_(Este programa pode calcular o Índice de Massa Corporal (IMC), Relação Cintura-Quadril (RCQ) e Índice de Adiposidade Corporal (IAC) a partir dos dados inseridos)_
-- Temporarily, the code has parts in Portuguese  
-_(Temporariamente, o código tem partes em português)_
+- ### This is a developed program that can be used to assist healthcare professionals in the process of physical assessment of a patient  
+  _Este é um programa desenvolvido que pode ser utilizado para auxiliar os profissionais de saúde no processo de avaliação física de um paciente_
+- ### This program can calculate Body Mass Index (BMI), Waist-to-Hip Ratio (WHR) and Body Adiposity Index (BAI) from data entered  
+  _Este programa pode calcular o Índice de Massa Corporal (IMC), Relação Cintura-Quadril (RCQ) e Índice de Adiposidade Corporal (IAC) a partir dos dados inseridos_
+- ### Temporarily, the code has parts in Portuguese  
+  _Temporariamente, o código tem partes em português_
