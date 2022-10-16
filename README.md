@@ -6,8 +6,9 @@
   _Este programa pode calcular o Índice de Massa Corporal (IMC), Relação Cintura-Quadril (RCQ) e Índice de Adiposidade Corporal (IAC) a partir dos dados inseridos_
 - ### Temporarily, the code has parts in Portuguese  
   _Temporariamente, o código tem partes em português_
-
-home
+   
+Home
+   
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/Home.png?raw=true"/>
 BMI
    
