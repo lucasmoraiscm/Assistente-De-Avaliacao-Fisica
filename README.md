@@ -8,3 +8,6 @@
   _Temporariamente, o código tem partes em português_
 
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/Home.png?raw=true"/>
+<img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/IMC.png?raw=true"/>
+<img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/RCQ.png?raw=true"/>
+<img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/IAC.png?raw=true"/>
