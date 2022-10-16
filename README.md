@@ -8,7 +8,6 @@
   _Temporariamente, o código tem partes em português_
 
 home
-   
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/Home.png?raw=true"/>
 BMI
    
