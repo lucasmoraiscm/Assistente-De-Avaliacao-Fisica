@@ -7,7 +7,11 @@
 - ### Temporarily, the code has parts in Portuguese  
   _Temporariamente, o código tem partes em português_
 
+home
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/Home.png?raw=true"/>
+BMI
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/IMC.png?raw=true"/>
+WHR
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/RCQ.png?raw=true"/>
+BAI
 <img src="https://github.com/lucasmoraiscm/Physical-Assessment-Assistant/blob/main/Photos/IAC.png?raw=true"/>
